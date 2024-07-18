@@ -1,3 +1,4 @@
+![logo](https://github.com/banskotanup/banskotanup/blob/main/Git_Banner%5B1%5D.png)
 <h1 align="center">Hi 👋, I'm Anup Banskota</h1>
 <h3 align="center">A passionate software & app developer from Nepal</h3>
 
