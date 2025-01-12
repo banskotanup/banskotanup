@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Anup Banskota</h1>
 <h3 align="center">Full-Stack Developer with a Passion for Building Scalable Solutions and Mastering Advanced Algorithms</h3>
 
-<img align="right" alt="Coding" width="400" src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdng4enVtYXp0MWR3bnpkcDg3NTR3amVlMjgxczhjazE3OGxoemw5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 <h2>💫 About Me</h2>
+<img align="right" alt="Coding" width="400" src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdng4enVtYXp0MWR3bnpkcDg3NTR3amVlMjgxczhjazE3OGxoemw5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 🌱 Currently Learning: Advanced Data Structures and Algorithms (DSA) to sharpen my problem-solving and programming skills.<br><br>👨‍💻 Projects: Explore all my projects, ranging from web development to dynamic applications, on my <a href="https://banskotanup.github.io/baskotanup.github.io/">Portfolio</a>. <br><br>💻 Tech Stack Expertise:<br><br>Proficient in JavaScript (JS), HTML, and CSS for building responsive, interactive web interfaces.<br>Hands-on experience with Node.js and React for creating scalable, user-friendly applications.<br>Skilled in backend development using Laravel and Express.js for robust APIs and server-side logic.<br>Well-versed in databases, including MongoDB, NoSQL, and PostgreSQL, ensuring efficient data management.<br><br>💬 Let's Talk: Whether it's about programming languages, web frameworks, or CS concepts, feel free to reach out for discussions or guidance.<br><br>📫 Reach Me At: baskota.anup11@gmail.com<br><br>📄 My Professional Journey: Check out my experiences and achievements <a href="https://bold.pro/my/anup-banskota/399r">here</a>.
 
 
